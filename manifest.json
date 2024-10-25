@@ -1,0 +1,11 @@
+{
+    "name": "My PWA",
+    "short_name": "PWA",
+    "description": "Eine Progressive Web App Beispiel.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "test": "testwert" 
+  }
+  
